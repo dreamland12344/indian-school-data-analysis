@@ -25,3 +25,6 @@ To organize school data, analyze key metrics, and present findings in a clear, v
 ## Files
 
 The project report and related files are included in the uploaded ZIP archive.
+
+Dashboard Preview 
+Indian School Data Analysis Dashboard
